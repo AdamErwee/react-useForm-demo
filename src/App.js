@@ -1,7 +1,8 @@
 import React from "react";
+import UserForm from "./pages/user/user.jsx";
 
 const App = () => {
-  return <h1>Hello, World!</h1>;
+  return <UserForm />;
 };
 
 export default App;

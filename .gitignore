@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+
+# logs
+*.log
+
+# dotenv environment variables file
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Mac files
+.DS_Store
+
+# pnpm package lock file
+pnpm-lock.yaml
+
